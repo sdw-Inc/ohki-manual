@@ -8,7 +8,11 @@ nav_order: 108
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
-<!-- ## 2024-02-26
+<!-- ### 2024-02-26
 
 アップデート内容:
 - テストテスト -->
+
+### 2026/01/21 
+
+- [OCR図面アップロード]({% link docs/quality-control/administrator/ocr-draw/index.md%})　追加
